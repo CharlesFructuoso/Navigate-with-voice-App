@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Navigation by Speech</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">Appuyez sur le micro pour enregistrer</string>
+    <string name="description_mic">image micro</string>
+    <string name="buttonGPS">Lancer recherche GPS</string>
+    <string name="departure">Départ</string>
+    <string name="arrival">Arrivée</string>
+    <string name="search_button">Rechercher</string>
+    <string name="title_activity_map">Map</string>
+    <string name="distance">Distance :</string>
+</resources>
+
+
